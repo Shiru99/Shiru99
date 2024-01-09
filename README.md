@@ -102,6 +102,9 @@
         <h2>
             Projects
         </h2>
+        <a href="https://github.com/Shiru99/AR-Eye-Tracker">
+            <img width="40%" alt="AR-Eye-Tracker" src="https://github-readme-stats.vercel.app/api/pin/?username=shiru99&repo=AR-Eye-Tracker&theme=gotham" />
+        </a>
         <a href="https://github.com/Shiru99/Engage-21">
             <img width="40%" alt="Engage-21" src="https://github-readme-stats.vercel.app/api/pin/?username=shiru99&repo=Engage-21&theme=gotham" />
         </a>
